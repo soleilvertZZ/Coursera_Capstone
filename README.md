@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Car accident severity project 
+Car accident severity project
